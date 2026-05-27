@@ -1,0 +1,92 @@
+{
+  "championnat": "Excellence Femme",
+  "journee": 14,
+  "mise_a_jour": "27/05/2026",
+  "resume": {
+    "top_forme": [
+      "الوفاق الرياضي السوالم",
+      "جمعية نادي ام الربيع",
+      "حسنية اتلتيك سطات"
+    ],
+    "en_alerte": [
+      "الترجي الرياضي بن سليمان",
+      "المنتدى الرياضي السطاتي",
+      "شباب السوالم الرياضي"
+    ]
+  },
+  "equipes": [
+    {
+      "nom": "جمعية نادي ام الربيع",
+      "etat": "Sur-régime",
+      "tendance": "stable",
+      "indice_forme": 78,
+      "confiance": "haute",
+      "rang": 3,
+      "pts": 26
+    },
+    {
+      "nom": "حسنية اتلتيك سطات",
+      "etat": "Sur-régime",
+      "tendance": "stable",
+      "indice_forme": 78,
+      "confiance": "haute",
+      "rang": 1,
+      "pts": 32
+    },
+    {
+      "nom": "جمعية فتح سيدي بنور",
+      "etat": "Sur-régime",
+      "tendance": "stable",
+      "indice_forme": 78,
+      "confiance": "haute",
+      "rang": 2,
+      "pts": 32
+    },
+    {
+      "nom": "الوفاق الرياضي السوالم",
+      "etat": "Sur-régime",
+      "tendance": "hausse",
+      "indice_forme": 90,
+      "confiance": "haute",
+      "rang": 6,
+      "pts": 17
+    },
+    {
+      "nom": "شباب السوالم الرياضي",
+      "etat": "Sous pression",
+      "tendance": "baisse",
+      "indice_forme": 16,
+      "confiance": "haute",
+      "rang": 7,
+      "pts": 9
+    },
+    {
+      "nom": "المنتدى الرياضي السطاتي",
+      "etat": "Sous pression",
+      "tendance": "baisse",
+      "indice_forme": 16,
+      "confiance": "haute",
+      "rang": 5,
+      "pts": 17
+    },
+    {
+      "nom": "الترجي الرياضي بن سليمان",
+      "etat": "Sous pression",
+      "tendance": "baisse",
+      "indice_forme": 16,
+      "confiance": "haute",
+      "rang": 8,
+      "pts": 7
+    },
+    {
+      "nom": "نادي الشرف الجديدي",
+      "etat": "Sous pression",
+      "tendance": "stable",
+      "indice_forme": 28,
+      "confiance": "haute",
+      "rang": 4,
+      "pts": 20
+    }
+  ],
+  "pronostics": []
+}
