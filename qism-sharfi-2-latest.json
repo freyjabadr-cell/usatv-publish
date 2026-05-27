@@ -1,0 +1,223 @@
+{
+  "meta": {
+    "championnat": "Qism Sharfi B",
+    "champId": "qism-sharfi-2",
+    "saison": "Saison 2025-2026",
+    "generatedAt": "2026-05-27T18:12:39.989Z",
+    "journeeActuelle": 21
+  },
+  "classement": [
+    {
+      "rang": 1,
+      "equipe": "اتحاد اشبال ازمور",
+      "mj": 19,
+      "v": 14,
+      "n": 4,
+      "d": 1,
+      "bp": 54,
+      "bc": 19,
+      "diff": 35,
+      "pts": 46
+    },
+    {
+      "rang": 2,
+      "equipe": "الشباب الجديدي",
+      "mj": 18,
+      "v": 9,
+      "n": 6,
+      "d": 3,
+      "bp": 43,
+      "bc": 28,
+      "diff": 15,
+      "pts": 33
+    },
+    {
+      "rang": 3,
+      "equipe": "وفاق المتوح",
+      "mj": 19,
+      "v": 9,
+      "n": 2,
+      "d": 8,
+      "bp": 32,
+      "bc": 34,
+      "diff": -2,
+      "pts": 29
+    },
+    {
+      "rang": 4,
+      "equipe": "اتحاد لغديرة",
+      "mj": 16,
+      "v": 7,
+      "n": 5,
+      "d": 4,
+      "bp": 35,
+      "bc": 22,
+      "diff": 13,
+      "pts": 26
+    },
+    {
+      "rang": 5,
+      "equipe": "نجم العونات",
+      "mj": 16,
+      "v": 7,
+      "n": 5,
+      "d": 4,
+      "bp": 29,
+      "bc": 23,
+      "diff": 6,
+      "pts": 26
+    },
+    {
+      "rang": 6,
+      "equipe": "امل مولاي عبد الله",
+      "mj": 18,
+      "v": 6,
+      "n": 5,
+      "d": 7,
+      "bp": 26,
+      "bc": 25,
+      "diff": 1,
+      "pts": 23
+    },
+    {
+      "rang": 7,
+      "equipe": "امل الوليدية",
+      "mj": 18,
+      "v": 7,
+      "n": 0,
+      "d": 11,
+      "bp": 31,
+      "bc": 39,
+      "diff": -8,
+      "pts": 21
+    },
+    {
+      "rang": 8,
+      "equipe": "اتحاد اولاد الغضبان",
+      "mj": 16,
+      "v": 4,
+      "n": 5,
+      "d": 7,
+      "bp": 13,
+      "bc": 23,
+      "diff": -10,
+      "pts": 17
+    },
+    {
+      "rang": 9,
+      "equipe": "اتحاد مولاي عبد الله",
+      "mj": 18,
+      "v": 3,
+      "n": 5,
+      "d": 10,
+      "bp": 14,
+      "bc": 24,
+      "diff": -10,
+      "pts": 14
+    },
+    {
+      "rang": 10,
+      "equipe": "جمعية الحكاكشة",
+      "mj": 16,
+      "v": 4,
+      "n": 1,
+      "d": 11,
+      "bp": 23,
+      "bc": 52,
+      "diff": -29,
+      "pts": 13
+    },
+    {
+      "rang": 11,
+      "equipe": "نصر الغربية",
+      "mj": 8,
+      "v": 2,
+      "n": 0,
+      "d": 6,
+      "bp": 7,
+      "bc": 18,
+      "diff": -11,
+      "pts": 6
+    }
+  ],
+  "derniereJournee": {
+    "num": 21,
+    "phase": "Aller",
+    "matchs": [
+      {
+        "dom": "امل الوليدية",
+        "ext": "اتحاد لغديرة",
+        "butsDom": 3,
+        "butsExt": 2
+      },
+      {
+        "dom": "وفاق المتوح",
+        "ext": "نصر الغربية",
+        "butsDom": 1,
+        "butsExt": 3
+      },
+      {
+        "dom": "الشباب الجديدي",
+        "ext": "اتحاد اولاد الغضبان",
+        "butsDom": 1,
+        "butsExt": 3
+      },
+      {
+        "dom": "اتحاد اشبال ازمور",
+        "ext": "اتحاد مولاي عبد الله",
+        "butsDom": 1,
+        "butsExt": 0
+      },
+      {
+        "dom": "امل مولاي عبد الله",
+        "ext": "جمعية الحكاكشة",
+        "butsDom": 0,
+        "butsExt": 1
+      }
+    ]
+  },
+  "prochaineJournee": {
+    "num": 22,
+    "matchs": [
+      {
+        "dom": "جمعية الحكاكشة",
+        "ext": "امل الوليدية",
+        "date": null,
+        "heure": null,
+        "stade": null
+      },
+      {
+        "dom": "اتحاد لغديرة",
+        "ext": "نجم العونات",
+        "date": null,
+        "heure": null,
+        "stade": null
+      },
+      {
+        "dom": "اتحاد مولاي عبد الله",
+        "ext": "امل مولاي عبد الله",
+        "date": null,
+        "heure": null,
+        "stade": null
+      },
+      {
+        "dom": "اتحاد اولاد الغضبان",
+        "ext": "وفاق المتوح",
+        "date": null,
+        "heure": null,
+        "stade": null
+      },
+      {
+        "dom": "نصر الغربية",
+        "ext": "اتحاد اشبال ازمور",
+        "date": null,
+        "heure": null,
+        "stade": null
+      }
+    ]
+  },
+  "stats": {
+    "totalMatchsJoues": 91,
+    "totalButs": 307
+  }
+}
