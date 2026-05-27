@@ -1,0 +1,172 @@
+{
+  "meta": {
+    "championnat": "القسم الممتاز إناث",
+    "journee_actuelle": 14,
+    "genere_le": "2026-05-27T13:19:07.417Z"
+  },
+  "equipes": [
+    {
+      "nom": "حسنية اتلتيك سطات",
+      "rang": 1,
+      "j": 14,
+      "v": 10,
+      "n": 2,
+      "d": 2,
+      "bp": 31,
+      "bc": 8,
+      "pts": 32,
+      "elo": 1500,
+      "hmm_etat": "Sur-régime",
+      "forme": "NVNVV"
+    },
+    {
+      "nom": "جمعية فتح سيدي بنور",
+      "rang": 2,
+      "j": 14,
+      "v": 10,
+      "n": 2,
+      "d": 2,
+      "bp": 31,
+      "bc": 10,
+      "pts": 32,
+      "elo": 1500,
+      "hmm_etat": "Sur-régime",
+      "forme": "VVNVV"
+    },
+    {
+      "nom": "جمعية نادي ام الربيع",
+      "rang": 3,
+      "j": 14,
+      "v": 8,
+      "n": 2,
+      "d": 4,
+      "bp": 37,
+      "bc": 19,
+      "pts": 26,
+      "elo": 1500,
+      "hmm_etat": "Sur-régime",
+      "forme": "NVVVV"
+    },
+    {
+      "nom": "نادي الشرف الجديدي",
+      "rang": 4,
+      "j": 14,
+      "v": 6,
+      "n": 2,
+      "d": 6,
+      "bp": 25,
+      "bc": 31,
+      "pts": 20,
+      "elo": 1500,
+      "hmm_etat": "Sous pression",
+      "forme": "VDNDD"
+    },
+    {
+      "nom": "المنتدى الرياضي السطاتي",
+      "rang": 5,
+      "j": 14,
+      "v": 5,
+      "n": 2,
+      "d": 7,
+      "bp": 14,
+      "bc": 23,
+      "pts": 17,
+      "elo": 1500,
+      "hmm_etat": "Sous pression",
+      "forme": "VDNDD"
+    },
+    {
+      "nom": "الوفاق الرياضي السوالم",
+      "rang": 6,
+      "j": 14,
+      "v": 5,
+      "n": 2,
+      "d": 7,
+      "bp": 20,
+      "bc": 24,
+      "pts": 17,
+      "elo": 1500,
+      "hmm_etat": "Sur-régime",
+      "forme": "DDDDV"
+    },
+    {
+      "nom": "شباب السوالم الرياضي",
+      "rang": 7,
+      "j": 14,
+      "v": 3,
+      "n": 0,
+      "d": 11,
+      "bp": 15,
+      "bc": 35,
+      "pts": 9,
+      "elo": 1500,
+      "hmm_etat": "Sous pression",
+      "forme": "DVDVD"
+    },
+    {
+      "nom": "الترجي الرياضي بن سليمان",
+      "rang": 8,
+      "j": 14,
+      "v": 3,
+      "n": 0,
+      "d": 11,
+      "bp": 11,
+      "bc": 34,
+      "pts": 7,
+      "elo": 1500,
+      "hmm_etat": "Sous pression",
+      "forme": "DDVDD"
+    }
+  ],
+  "pronostics": [],
+  "monte_carlo": [
+    {
+      "equipe": "حسنية اتلتيك سطات",
+      "proba_titre": 1,
+      "proba_relegation": 0,
+      "pts_median": 32
+    },
+    {
+      "equipe": "جمعية فتح سيدي بنور",
+      "proba_titre": 0,
+      "proba_relegation": 0,
+      "pts_median": 32
+    },
+    {
+      "equipe": "جمعية نادي ام الربيع",
+      "proba_titre": 0,
+      "proba_relegation": 0,
+      "pts_median": 26
+    },
+    {
+      "equipe": "نادي الشرف الجديدي",
+      "proba_titre": 0,
+      "proba_relegation": 0,
+      "pts_median": 20
+    },
+    {
+      "equipe": "المنتدى الرياضي السطاتي",
+      "proba_titre": 0,
+      "proba_relegation": 0,
+      "pts_median": 17
+    },
+    {
+      "equipe": "الوفاق الرياضي السوالم",
+      "proba_titre": 0,
+      "proba_relegation": 0,
+      "pts_median": 17
+    },
+    {
+      "equipe": "شباب السوالم الرياضي",
+      "proba_titre": 0,
+      "proba_relegation": 1,
+      "pts_median": 9
+    },
+    {
+      "equipe": "الترجي الرياضي بن سليمان",
+      "proba_titre": 0,
+      "proba_relegation": 1,
+      "pts_median": 7
+    }
+  ]
+}
