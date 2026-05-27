@@ -1,0 +1,27 @@
+{
+  "_readme": "Ce fichier est généré automatiquement par DASHBOARD_HMM_PRIVE_Excellence_Femme.html → bouton 📤 Générer JSON public. NE PAS MODIFIER manuellement.",
+  "meta": {
+    "championnat": "القسم الممتاز إناث",
+    "id": "femme",
+    "saison": "2025-2026",
+    "journee_actuelle": 0,
+    "nb_equipes": 0,
+    "genere_le": "2026-05-26T00:00:00Z",
+    "config": {
+      "type": "adulte",
+      "elo_k": 32,
+      "home_advantage": 100,
+      "dixon_coles": true,
+      "min_matchs_fiabilite": 8
+    }
+  },
+  "equipes": [],
+  "pronostics": [],
+  "monte_carlo": [],
+  "alertes": [
+    {
+      "type": "info",
+      "message": "Fichier placeholder — charger un Excel dans le dashboard privé et cliquer '📤 Générer JSON public'"
+    }
+  ]
+}
